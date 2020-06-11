@@ -8,10 +8,15 @@ to fill
 
 ## Project implementation
 
-to fill
+### Data
+* _Source_: XXX images of XXX scraped from Google Images using selenium, requests, PIL, hashlib python libraries
+* _Train / Test_:
+* _Classes_: 
 
+### Tools and frameworks
 * _Language_: Python
-* _Libraries_:
+* _Platform_: AWS
+* _Model_: Amazon Rekognition
 
 ## Authors 
 * Sahar Ghanavati
@@ -21,4 +26,5 @@ to fill
 * Pranai Tandon
 
 ## Sources and acknowledgments
-TO FILL
+* [Amazon Rekognition](https://aws.amazon.com/rekognition/)
+* 
